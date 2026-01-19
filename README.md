@@ -162,8 +162,8 @@ Acesse `http://localhost:8501` para usar a interface interativa.
 
 ## 👨‍💻 Autor
 
-**Jackson dos Santos**
-- LinkedIn: [Perfil Jackson dos Santos Ventura](https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4)
+**Jackson Ventura**
+- LinkedIn: [Perfil Jackson](https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4)
 - Email: jacksonsventura@gmail.com
 
 ## 📄 Licença
