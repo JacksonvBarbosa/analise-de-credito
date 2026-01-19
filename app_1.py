@@ -84,8 +84,12 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Carregamento dos dados de referência
-dados = pd.read_csv(r'dados\processed\df_analises_models.csv')
+#dados = pd.read_csv(r'dados\processed\df_analises_models.csv')
 
+BASE_DIR = Path(__file__).resolve().parent
+dados_path = BASE_DIR / "dados" / "processed" / "df_analises_models.csv"
+
+dados = pd.read_csv(dados_path)
 
 # Título e descrição principal
 st.title("💳 Análise de Risco de Crédito")
